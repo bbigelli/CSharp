@@ -1,0 +1,7 @@
+D:\Developer\C#dotNET\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+D:\Developer\C#dotNET\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+D:\Developer\C#dotNET\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+D:\Developer\C#dotNET\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+D:\Developer\C#dotNET\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+D:\Developer\C#dotNET\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+D:\Developer\C#dotNET\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb

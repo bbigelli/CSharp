@@ -1,0 +1,8 @@
+D:\Developer\C#dotNET\ConversoesEOutrosTiposNumericos\bin\Debug\ConversoesEOutrosTiposNumericos.exe.config
+D:\Developer\C#dotNET\ConversoesEOutrosTiposNumericos\bin\Debug\ConversoesEOutrosTiposNumericos.exe
+D:\Developer\C#dotNET\ConversoesEOutrosTiposNumericos\bin\Debug\ConversoesEOutrosTiposNumericos.pdb
+D:\Developer\C#dotNET\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.csproj.AssemblyReference.cache
+D:\Developer\C#dotNET\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.csproj.SuggestedBindingRedirects.cache
+D:\Developer\C#dotNET\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+D:\Developer\C#dotNET\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.exe
+D:\Developer\C#dotNET\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.pdb

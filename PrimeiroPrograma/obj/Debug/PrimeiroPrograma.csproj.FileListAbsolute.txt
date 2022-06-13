@@ -1,0 +1,8 @@
+D:\Developer\C#dotNET\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.exe.config
+D:\Developer\C#dotNET\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.exe
+D:\Developer\C#dotNET\PrimeiroPrograma\bin\Debug\PrimeiroPrograma.pdb
+D:\Developer\C#dotNET\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.csproj.AssemblyReference.cache
+D:\Developer\C#dotNET\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.csproj.SuggestedBindingRedirects.cache
+D:\Developer\C#dotNET\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+D:\Developer\C#dotNET\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.exe
+D:\Developer\C#dotNET\PrimeiroPrograma\obj\Debug\PrimeiroPrograma.pdb

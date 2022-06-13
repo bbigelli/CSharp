@@ -1,0 +1,8 @@
+D:\Developer\C#dotNET\CalculaInvestimentoLongoPrazo\bin\Debug\CalculaInvestimentoLongoPrazo.exe.config
+D:\Developer\C#dotNET\CalculaInvestimentoLongoPrazo\bin\Debug\CalculaInvestimentoLongoPrazo.exe
+D:\Developer\C#dotNET\CalculaInvestimentoLongoPrazo\bin\Debug\CalculaInvestimentoLongoPrazo.pdb
+D:\Developer\C#dotNET\CalculaInvestimentoLongoPrazo\obj\Debug\CalculaInvestimentoLongoPrazo.csproj.AssemblyReference.cache
+D:\Developer\C#dotNET\CalculaInvestimentoLongoPrazo\obj\Debug\CalculaInvestimentoLongoPrazo.csproj.SuggestedBindingRedirects.cache
+D:\Developer\C#dotNET\CalculaInvestimentoLongoPrazo\obj\Debug\CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+D:\Developer\C#dotNET\CalculaInvestimentoLongoPrazo\obj\Debug\CalculaInvestimentoLongoPrazo.exe
+D:\Developer\C#dotNET\CalculaInvestimentoLongoPrazo\obj\Debug\CalculaInvestimentoLongoPrazo.pdb
