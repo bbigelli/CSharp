@@ -1,0 +1,14 @@
+D:\Programação C#\BinaryGap\bin\Debug\net8.0\BinaryGap.exe
+D:\Programação C#\BinaryGap\bin\Debug\net8.0\BinaryGap.deps.json
+D:\Programação C#\BinaryGap\bin\Debug\net8.0\BinaryGap.runtimeconfig.json
+D:\Programação C#\BinaryGap\bin\Debug\net8.0\BinaryGap.dll
+D:\Programação C#\BinaryGap\bin\Debug\net8.0\BinaryGap.pdb
+D:\Programação C#\BinaryGap\obj\Debug\net8.0\BinaryGap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação C#\BinaryGap\obj\Debug\net8.0\BinaryGap.AssemblyInfoInputs.cache
+D:\Programação C#\BinaryGap\obj\Debug\net8.0\BinaryGap.AssemblyInfo.cs
+D:\Programação C#\BinaryGap\obj\Debug\net8.0\BinaryGap.csproj.CoreCompileInputs.cache
+D:\Programação C#\BinaryGap\obj\Debug\net8.0\BinaryGap.dll
+D:\Programação C#\BinaryGap\obj\Debug\net8.0\refint\BinaryGap.dll
+D:\Programação C#\BinaryGap\obj\Debug\net8.0\BinaryGap.pdb
+D:\Programação C#\BinaryGap\obj\Debug\net8.0\BinaryGap.genruntimeconfig.cache
+D:\Programação C#\BinaryGap\obj\Debug\net8.0\ref\BinaryGap.dll
